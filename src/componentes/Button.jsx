@@ -7,9 +7,9 @@ const buttons = {
     large: 'text-lg w-48',
   },
   colors: {
-    red: 'bg-red-600  text-white',
-    blue: 'bg-blue-500 text-white hover:bg-blue-200',
-    green: 'bg-green-700 text-white hover:bg-blue-200',
+    red: 'bg-red-700  text-white',
+    blue: 'bg-blue-700 text-white hover:bg-blue-600',
+    green: 'bg-green-700 text-white hover:bg-green-600',
   },
   disable: {
     true: `${true} cursor-not-allowed opacity-50`,
