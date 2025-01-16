@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(241, 140, 103);
+}
+
+.title {
+  margin-top: 20px;
+  text-decoration: underline 2px;
+  border-top: 2px solid black;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+@media (max-width: 768px) {
+  body {
+    margin: 10px;
+  }
+}
